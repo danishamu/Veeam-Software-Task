@@ -1,0 +1,5 @@
+The solutions of problems 1, 2 and 3 are given in 
+solution1, solution2  and solution3_server,  solution3_client respectively.
+The task outputs and explanation are given in the word and pdf file.
+
+The system used are windows. The language used is Python. All tasks are written in the visual studio code. 
